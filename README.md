@@ -1,1 +1,1 @@
-Python module capable of generating specialized DataFrames from scratch or deriving them from external files. These DataFrames can then be separated into train DataFrames and test DataFrames, which reduces the amount of resources spent in this endeavor.
+Python module oriented to the generation of specialized datasets, which can be created from scratch or derived from external files. In addition, this module is also capable of separating these datasets into training and testing dataframes.
