@@ -1,1 +1,3 @@
-Python module oriented to the generation of specialized datasets, which can be created from scratch or derived from external files. In addition, this module is also capable of separating these datasets into training and testing dataframes.
+## Javicho
+
+A module oriented to the creation of data frames with randomized data under their desired specifications.
